@@ -1,5 +1,3 @@
-STREAMING_CHUNK:Defining Docker build steps for Cloud Run...
-
 
 
 FROM python:3.11-slim
